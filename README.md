@@ -59,6 +59,8 @@ Visual Representations: Gaining insights through visualizations like histograms,
 
 OUTPUT :
 
+![Screenshot (8)](https://github.com/05-05-2004/INTERNSHIP-CODETECH-TASK-1/assets/169070031/5bb14a53-1fd9-441d-8e5f-761a678bb9b3)
+
 
 
 

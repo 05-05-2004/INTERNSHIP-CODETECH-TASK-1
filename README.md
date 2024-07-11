@@ -67,6 +67,8 @@ OUTPUT :
 
 ![Screenshot (11)](https://github.com/05-05-2004/INTERNSHIP-CODETECH-TASK-1/assets/169070031/7f7262fe-9011-43dd-859e-fee31cbc7324)
 
+![Screenshot (7)](https://github.com/05-05-2004/INTERNSHIP-CODETECH-TASK-1/assets/169070031/14a23dcd-5784-4626-9ed9-e71c51eb1061)
+
 
 
 
